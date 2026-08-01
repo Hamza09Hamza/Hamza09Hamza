@@ -44,7 +44,7 @@ A laboratory integration bridge that receives analyzer results over TCP, handles
 
 ### [Client-Patient](https://github.com/Hamza09Hamza/Client-Patient)
 
-A bilingual patient portal for securely viewing laboratory-report PDFs delivered by a clinic system. It includes patient provisioning, a protected integration API, a custom PDF viewer, QR-based single-report access, audit logging, and production deployment tooling.
+Works as the next step to [Labo-IBS](https://github.com/Hamza09Hamza/Labo-IBS)  "A bilingual patient portal for securely viewing laboratory-report PDFs delivered by a clinic system. It includes patient provisioning, a protected integration API, a custom PDF viewer, QR-based single-report access, audit logging, and production deployment tooling.
 
 `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Docker`
 
