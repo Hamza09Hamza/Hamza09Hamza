@@ -81,8 +81,15 @@ A data-mining and machine-learning pipeline for forest-fire prediction in Algeri
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza09Hamza&show_icons=true&hide_border=true&theme=transparent" alt="Hamza's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza09Hamza&layout=compact&hide_border=true&theme=transparent" alt="Hamza's most used public repository languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake.svg" />
+  <img alt="Hamza Boukader's GitHub contribution activity" src="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake.svg" />
+</picture>
+
+[View my complete GitHub contribution history](https://github.com/Hamza09Hamza?tab=overview)
+
 </div>
 
 ---
