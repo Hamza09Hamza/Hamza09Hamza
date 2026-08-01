@@ -15,7 +15,7 @@ I build production-focused **web, mobile, AI, and integration systems**—from m
 ## About me
 
 - Based in **Blida, Algeria**.
-- Full-stack developer working on **OCR automation, real-time communication software, and machine-to-software integrations**.
+- Full-stack developer working on **AI projects, Automation, and software engineering**.
 - Master's graduate in **Intelligent Information Systems**, focused on machine learning, deep learning, NLP, and data mining.
 - Experienced across the complete product lifecycle: **architecture, AI/ML, APIs, databases, frontend, mobile, deployment, and system integration**.
 - Especially interested in **agentic AI, healthcare software, computer vision, multilingual systems, and reliable backend architecture**.
