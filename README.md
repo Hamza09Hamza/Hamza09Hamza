@@ -70,27 +70,7 @@ A data-mining and machine-learning pipeline for forest-fire prediction in Algeri
   LangGraph · LangChain · RAG · NLP · Computer Vision · React Native · Prisma · WebSockets · Socket.IO · Mediasoup · HL7 · ASTM
 </p>
 
-## What I enjoy building
 
-- AI assistants that use tools, databases, retrieval, and deterministic validation.
-- Full-stack products where the frontend, backend, database, and infrastructure work as one system.
-- Healthcare integrations that move data reliably between machines and applications.
-- Real-time applications involving messaging, audio/video, event streams, and mobile clients.
-- Applied ML systems that go beyond notebooks into usable APIs and products.
-
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake.svg" />
-  <img alt="Hamza Boukader's GitHub contribution activity" src="https://raw.githubusercontent.com/Hamza09Hamza/Hamza09Hamza/output/github-contribution-grid-snake.svg" />
-</picture>
-
-[View my complete GitHub contribution history](https://github.com/Hamza09Hamza?tab=overview)
-
-</div>
 
 ---
 
