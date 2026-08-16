@@ -40,13 +40,7 @@ A multilingual analytics assistant supporting French, English, Arabic, and Alger
 
 A laboratory integration bridge that receives analyzer results over TCP, handles machine-specific protocols and decoding rules, maps test codes, stores normalized results in PostgreSQL, and provides administration tools.
 
-`Python` · `Flask` · `PostgreSQL` · `ASTM` · `HL7 MLLP` · `TCP Integration`
-
-### [Client-Patient](https://github.com/Hamza09Hamza/Client-Patient)
-
-Works as the next step to [Labo-IBS](https://github.com/Hamza09Hamza/Labo-IBS)  "A bilingual patient portal for securely viewing laboratory-report PDFs delivered by a clinic system. It includes patient provisioning, a protected integration API, a custom PDF viewer, QR-based single-report access, audit logging, and production deployment tooling.
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Docker`
+`Python` · `Flask` · `PostgreSQL` · `ASTM` · `HL7 MLLP` · `TCP Integration`. `Pandas` · `scikit-learn` · `GeoPandas` · `Machine Learning` · `Data Mining`
 
 ### [WhatsApp-like Communication Server](https://github.com/Hamza09Hamza/whatsapp-server)
 
@@ -54,11 +48,6 @@ A real-time messaging and calling backend with private and group chat, delivery/
 
 `Node.js` · `Express` · `Socket.IO` · `Mediasoup` · `PostgreSQL` · `FFmpeg`
 
-### [Forest Fire Prediction](https://github.com/Hamza09Hamza/ForestFirePrediction)
-
-A data-mining and machine-learning pipeline for forest-fire prediction in Algeria and Tunisia using satellite fire detections, climate, soil, and elevation data. Includes preprocessing, supervised learning, clustering, and from-scratch algorithm implementations.
-
-`Python` · `Pandas` · `scikit-learn` · `GeoPandas` · `Machine Learning` · `Data Mining`
 
 ## Technologies
 
