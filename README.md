@@ -18,7 +18,7 @@ I build production-focused **web, mobile, AI, and integration systems**—from m
 - Full-stack developer working on **AI projects, Automation, and software engineering**.
 - Master's graduate in **Intelligent Information Systems**, focused on machine learning, deep learning, NLP, and data mining.
 - Experienced across the complete product lifecycle: **architecture, AI/ML, APIs, databases, frontend, mobile, deployment, and system integration**.
-- Especially interested in **agentic AI, healthcare software, computer vision, multilingual systems, and reliable backend architecture**.
+- Especially interested in **agentic AI, computer vision, multilingual systems, and reliable backend architecture**.
 
 ## Featured projects
 
