@@ -67,6 +67,6 @@ A real-time messaging and calling backend with private and group chat, delivery/
 
 ### Let's connect
 
-I'm always interested in technically ambitious projects involving **AI engineering, full-stack development, healthcare systems, computer vision, or real-time software**.
+I'm always interested in technically ambitious projects involving **AI engineering, full-stack development, computer vision, or real-time software**.
 
 </div>
