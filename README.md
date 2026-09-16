@@ -42,7 +42,7 @@ A laboratory integration bridge that receives analyzer results over TCP, handles
 
 `Python` · `Flask` · `PostgreSQL` · `ASTM` · `HL7 MLLP` · `TCP Integration`. `Pandas` · `scikit-learn` · `GeoPandas` · `Machine Learning` · `Data Mining`
 
-### [WhatsApp-like Communication Server](https://github.com/Hamza09Hamza/relay-server))
+### [WhatsApp-like Communication Server](https://github.com/Hamza09Hamza/relay-server)
 
 A real-time messaging and calling backend with private and group chat, delivery/read receipts, call signaling, Mediasoup SFU audio/video, PostgreSQL persistence, and server-side recording.
 
